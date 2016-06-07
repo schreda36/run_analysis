@@ -7,16 +7,6 @@ output: html_document
 
 ==================================
 
-## Variables
-For each record in the dataset it is provided:
-
-- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
-- Triaxial Angular velocity from the gyroscope.
-- A 561-feature vector with time and frequency domain variables. (see features.txt)
-- Its activity label. (see activity_labels.txt)
-- An identifier of the subject who carried out the experiment. 
-
-
 ## Data
 The data analyzed by run_analysis.R was are obtained here:
 
@@ -28,6 +18,15 @@ Use of this dataset in publications must be acknowledged by referencing the foll
 
 Further information about this data can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
+
+## Variables
+For each record in the dataset it is provided:
+
+- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+- Triaxial Angular velocity from the gyroscope.
+- A 561-feature vector with time and frequency domain variables. (see features.txt from zip file)
+- Its activity label. (see activity_labels.txt from zip file)
+- An identifier of the subject who carried out the experiment. 
 
 
 ## Transformation
