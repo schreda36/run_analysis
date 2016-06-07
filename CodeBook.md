@@ -5,7 +5,6 @@ date: "June 7, 2016"
 output: html_document
 ---
 
-Codebook for wearable computing dataset
 ==================================
 
 ## Variables
